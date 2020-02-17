@@ -137,16 +137,17 @@ Animal.prototype.speak = () => console.log('Moo');
 
 #### Questions
 
+
 ```
 // What is the constructor?
-
-
 
 // Create an instance of the Rectangle above
 
 // Create a function inside the Rectangle to calculate area
 
 // Create a function inside the Rectangle to calculate the perimiter
+
+// If you have trouble creating and using classes, here is the correct version of nodejshttps://repl.it/repls/ForkedPreemptiveLeads
 
 ```
 
